@@ -2,5 +2,5 @@
 layout: slide
 title:"Welcome to our second slids!"
 ---
-Your text
+"Hi are you fine?"
 Use the left arrow to go back!
